@@ -22,7 +22,7 @@ Android graphql
 - Le dan rebuild project y ya deberian poder usar sus queries y mutations de su api gateway
 - en MainActivity está la forma como se usa
 - Esta app sirve solo mientras yo tenga desplegado el api y encendida la instancia de aws.
-- Pueden surguir errores de gradle, de jvn y de versión de kotlin, tener todo actualizado, este proyecto usa la version de gradle 6.4-rc-3 y gradle plugin version 3.6.3. LA versión de JVM es 1.8.
+- Pueden surgir errores de gradle, de jvn y de versión de kotlin, tener todo actualizado, este proyecto usa la version de gradle 6.4-rc-3 y gradle plugin version 3.6.3. LA versión de JVM es 1.8.
 - Aconsejo en la parte  de project, donde aparecen todos los archivos cambiar la vista a Project, por defecto se abre en Android. ESto para crear los archivos y ver la estructura lógica del proyecto y no como lo organiza android studio.
 # Cualquier duda me cuentan.
 
