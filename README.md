@@ -1,0 +1,2 @@
+# MyApp
+Android graphql
